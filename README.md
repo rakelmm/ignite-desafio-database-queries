@@ -1,4 +1,4 @@
-# Desafio Database Queries - Ignite.
+<h1 align="center" >Desafio Database Queries - Ignite</h1>
 
  - Para clonar o repositório, clique no botão "Code" e irá aparecer um menu. Copie a URL que aparece logo abaixo do botão.
  - No seu terminal, navegue até a sua pasta de preferência e rode o comando git clone {URL_DO_REPOSITORIO}, isso irá baixar todos 
